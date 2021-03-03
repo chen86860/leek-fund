@@ -3,6 +3,7 @@
 
 # leek-fund（韭菜盒子）
 
+
 **韭菜盒子**——VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件。
 
 Leek box - VSCode can also see the real-time data of stock & fund, do the most useful investment plug-in
@@ -26,6 +27,7 @@ Leek box - VSCode can also see the real-time data of stock & fund, do the most u
   - [交流群](#交流群)
   - [赞助支持一下！](#赞助支持一下)
   - [Todo List](#todo-list)
+  - [Core Contributors](#core-contributors)
   - [感谢 PR](#感谢-pr)
   - [Changelog](#changelog)
   - [License](#license)
